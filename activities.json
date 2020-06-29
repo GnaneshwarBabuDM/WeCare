@@ -1,0 +1,2377 @@
+{
+    "activities": [
+        {
+            "name": "G:/Lock Down Learning\\MachineLearningSpyder - Spyder (Python 3.7)",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:26:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-06-27 02:26:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:27:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "start_time": "2020-06-27 02:27:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:29:34",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 20,
+                    "start_time": "2020-06-27 02:28:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:27:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2020-06-27 13:27:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:28:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2020-06-27 13:28:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:30:25",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 45,
+                    "start_time": "2020-06-27 13:28:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:30:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-06-27 13:30:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:30:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:30:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:35:57",
+                    "hours": 0,
+                    "minutes": 5,
+                    "seconds": 10,
+                    "start_time": "2020-06-27 13:30:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:36:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 41,
+                    "start_time": "2020-06-27 13:36:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:40:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-06-27 13:40:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:40:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-06-27 13:40:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:54:18",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 8,
+                    "start_time": "2020-06-27 13:51:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:16:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-06-29 01:16:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:18:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-29 01:18:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:18:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-06-29 01:18:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:18:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2020-06-29 01:18:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:19:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 36,
+                    "start_time": "2020-06-29 01:18:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:19:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2020-06-29 01:19:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:20:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 33,
+                    "start_time": "2020-06-29 01:19:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:22:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-06-29 01:22:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:25:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 28,
+                    "start_time": "2020-06-29 01:25:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:28:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2020-06-29 01:28:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:28:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-06-29 01:28:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:29:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2020-06-29 01:29:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:32:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 36,
+                    "start_time": "2020-06-29 01:31:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:32:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-06-29 01:32:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:32:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-06-29 01:32:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:49:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2020-06-29 01:49:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:49:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-06-29 01:49:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:50:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 36,
+                    "start_time": "2020-06-29 01:49:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:54:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-06-29 01:53:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:54:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 25,
+                    "start_time": "2020-06-29 01:54:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:56:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "start_time": "2020-06-29 01:56:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:57:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 23,
+                    "start_time": "2020-06-29 01:56:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:57:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 01:57:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:57:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:57:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:14:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-06-29 02:14:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:15:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "start_time": "2020-06-29 02:14:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:15:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 38,
+                    "start_time": "2020-06-29 02:15:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:15:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2020-06-29 02:15:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:18:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-06-29 02:18:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:19:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 31,
+                    "start_time": "2020-06-29 02:18:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:19:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-06-29 02:19:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:20:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 29,
+                    "start_time": "2020-06-29 02:19:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:21:34",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 22,
+                    "start_time": "2020-06-29 02:20:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:22:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 36,
+                    "start_time": "2020-06-29 02:21:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:22:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-06-29 02:22:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:22:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2020-06-29 02:22:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:23:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 24,
+                    "start_time": "2020-06-29 02:22:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:23:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-06-29 02:23:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:26:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-06-29 02:26:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:27:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2020-06-29 02:26:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:29:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-06-29 02:29:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:29:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-06-29 02:29:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:30:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-06-29 02:30:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:30:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:30:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:30:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-06-29 02:30:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:30:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-06-29 02:30:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:31:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2020-06-29 02:30:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:31:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2020-06-29 02:31:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:31:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:31:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:31:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2020-06-29 02:31:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:32:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 31,
+                    "start_time": "2020-06-29 02:31:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:33:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 27,
+                    "start_time": "2020-06-29 02:33:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:34:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 21,
+                    "start_time": "2020-06-29 02:33:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:34:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2020-06-29 02:34:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:35:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "start_time": "2020-06-29 02:34:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:35:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:35:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:35:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 25,
+                    "start_time": "2020-06-29 02:35:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:36:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-06-29 02:36:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:39:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-06-29 02:39:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:41:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 35,
+                    "start_time": "2020-06-29 02:40:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:41:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-06-29 02:41:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:44:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-06-29 02:44:02"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:27:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2020-06-27 02:26:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:27:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-06-27 02:27:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:27:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 02:27:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:29:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 02:29:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:35:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:35:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:36:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:36:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:41:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-27 13:41:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:42:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:42:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:42:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-06-27 13:42:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:44:47",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 47,
+                    "start_time": "2020-06-27 13:43:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:45:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2020-06-27 13:45:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:47:10",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 48,
+                    "start_time": "2020-06-27 13:45:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:51:07",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 56,
+                    "start_time": "2020-06-27 13:47:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:16:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:16:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:18:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:18:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:18:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:18:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:18:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:18:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:18:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:18:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:19:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:19:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:19:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-06-29 01:19:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:19:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:19:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:20:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-29 01:20:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:20:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 01:20:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:20:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:20:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:22:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:22:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:25:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-06-29 01:25:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:25:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 01:25:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:28:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:28:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:28:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:28:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:29:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:29:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:32:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:32:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:32:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-06-29 01:32:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:32:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:32:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:32:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-29 01:32:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:49:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:49:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:49:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:49:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:49:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 01:49:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:51:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 37,
+                    "start_time": "2020-06-29 01:50:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:54:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:54:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:54:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:54:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:54:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 01:54:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:54:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-06-29 01:54:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:56:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:56:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:57:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:57:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:57:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:57:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:14:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:14:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:15:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:15:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:15:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:15:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:15:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:15:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:18:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:18:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:19:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:19:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:20:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:20:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:20:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:20:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:21:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:21:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:22:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:22:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:22:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-06-29 02:22:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:23:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 31,
+                    "start_time": "2020-06-29 02:23:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:24:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 51,
+                    "start_time": "2020-06-29 02:23:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:25:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2020-06-29 02:24:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:25:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-06-29 02:25:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:25:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-06-29 02:25:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:26:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 50,
+                    "start_time": "2020-06-29 02:25:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:26:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2020-06-29 02:26:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:27:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:27:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:29:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:29:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:29:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:29:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:30:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:30:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:30:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:30:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:30:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:30:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:30:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:30:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:30:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:30:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:31:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:31:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:31:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:31:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:33:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:33:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:34:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:34:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:34:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:34:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:35:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:35:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:37:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:36:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:39:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:39:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:41:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:41:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:44:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:44:08"
+                }
+            ]
+        },
+        {
+            "name": "google.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:27:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2020-06-27 02:27:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:24:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:24:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:25:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-06-29 02:25:31"
+                }
+            ]
+        },
+        {
+            "name": "Task Switching",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:27:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-27 02:27:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:28:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 02:28:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:28:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 21,
+                    "start_time": "2020-06-27 13:27:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:28:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:28:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:36:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-06-27 13:35:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:36:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-06-27 13:36:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:37:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:37:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:40:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-27 13:40:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:40:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:40:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:42:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-06-27 13:42:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:51:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-27 13:51:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:16:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-06-29 01:16:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:20:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:20:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:25:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:25:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:22:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:22:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:23:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:23:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:26:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:26:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:30:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-06-29 02:30:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:32:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-29 02:32:22"
+                }
+            ]
+        },
+        {
+            "name": "Cortana",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:27:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-27 02:27:47"
+                }
+            ]
+        },
+        {
+            "name": "Mozilla Firefox",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:27:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-27 02:27:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:27:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-27 02:27:56"
+                }
+            ]
+        },
+        {
+            "name": "Default Browser",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:27:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-27 02:27:54"
+                }
+            ]
+        },
+        {
+            "name": "Google - Mozilla Firefox",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:28:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2020-06-27 02:27:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:29:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-27 02:29:43"
+                }
+            ]
+        },
+        {
+            "name": "apple iphone ios 14 update beta - Google Search - Mozilla Firefox",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:28:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 02:28:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 02:29:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-06-27 02:29:35"
+                }
+            ]
+        },
+        {
+            "name": "youtube.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:28:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-27 13:28:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:28:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:28:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:42:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:42:41"
+                }
+            ]
+        },
+        {
+            "name": "Editor - G:\\Hackathon\\Windows WeCare\\AutoTimer-master\\activities.json",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:30:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:30:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:30:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2020-06-27 13:30:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:30:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-27 13:30:43"
+                }
+            ]
+        },
+        {
+            "name": "G:\\Hackathon\\Windows WeCare\\AutoTimer-master\\activities.json - Notepad++",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:36:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:36:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:37:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 34,
+                    "start_time": "2020-06-27 13:36:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:37:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:37:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:38:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 35,
+                    "start_time": "2020-06-27 13:37:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:40:27",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 16,
+                    "start_time": "2020-06-27 13:38:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:40:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:40:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:40:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:40:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:41:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2020-06-27 13:40:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:42:31",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 7,
+                    "start_time": "2020-06-27 13:41:24"
+                }
+            ]
+        },
+        {
+            "name": "Reload",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:36:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-06-27 13:36:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:37:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:37:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:38:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:38:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:40:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-27 13:40:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:40:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-06-27 13:40:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:41:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-06-27 13:41:18"
+                }
+            ]
+        },
+        {
+            "name": "TeamViewer Panel",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:38:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:38:09"
+                }
+            ]
+        },
+        {
+            "name": "Windows Default Lock Screen",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:41:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-06-27 13:41:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:18:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-06-29 01:18:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:19:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 01:19:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:20:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-06-29 01:20:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:25:18",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 42,
+                    "start_time": "2020-06-29 01:22:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:29:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2020-06-29 01:28:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:31:27",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 6,
+                    "start_time": "2020-06-29 01:29:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:32:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:32:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:32:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "start_time": "2020-06-29 01:32:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:49:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-29 01:49:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:54:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-06-29 01:54:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:14:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:14:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:15:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:15:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:18:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:18:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:19:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-06-29 02:19:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:20:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:20:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:29:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:29:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:30:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:30:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:30:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:30:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:31:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2020-06-29 02:31:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:33:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:33:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:34:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:34:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:34:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2020-06-29 02:34:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:39:12",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 12,
+                    "start_time": "2020-06-29 02:37:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:41:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-06-29 02:41:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:44:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:44:09"
+                }
+            ]
+        },
+        {
+            "name": "UnlockingWindow",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:41:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:41:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:25:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:25:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:18:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:18:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:44:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:44:11"
+                }
+            ]
+        },
+        {
+            "name": "rkin",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:42:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-27 13:42:47"
+                }
+            ]
+        },
+        {
+            "name": "rkinsideout",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:42:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-27 13:42:50"
+                }
+            ]
+        },
+        {
+            "name": "rkinsideout.blog",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:42:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-27 13:42:52"
+                }
+            ]
+        },
+        {
+            "name": "rkinsideout.blogspot.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:43:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-06-27 13:42:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:45:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:45:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:45:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:45:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:47:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-27 13:47:10"
+                }
+            ]
+        },
+        {
+            "name": "rkinsideout.blogspot.in",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 13:45:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2020-06-27 13:44:47"
+                }
+            ]
+        },
+        {
+            "name": "Sponsored session",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 15:00:03",
+                    "hours": 1,
+                    "minutes": 5,
+                    "seconds": 45,
+                    "start_time": "2020-06-27 13:54:18"
+                }
+            ]
+        },
+        {
+            "name": "TeamViewer",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-27 15:03:23",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 20,
+                    "start_time": "2020-06-27 15:00:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:20:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:20:30"
+                }
+            ]
+        },
+        {
+            "name": "G:/Lock Down Learning\\MachineLearningSpyder - Spyder (Python 3.7) (Not Responding)",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:25:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-29 01:25:56"
+                }
+            ]
+        },
+        {
+            "name": "Program Manager",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:32:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:32:52"
+                }
+            ]
+        },
+        {
+            "name": "Take a break",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:50:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-06-29 01:50:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:54:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-29 01:54:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:54:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 01:54:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:57:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:57:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:57:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:57:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 01:57:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 01:57:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:15:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:15:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:19:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:19:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:31:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:31:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:31:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:31:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:31:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:31:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:35:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:35:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:35:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:35:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:35:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2020-06-29 02:35:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:41:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:41:03"
+                }
+            ]
+        },
+        {
+            "name": "remove ",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:24:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:24:44"
+                }
+            ]
+        },
+        {
+            "name": " remove empty in list python location from history, 2 of 10",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:24:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-29 02:24:45"
+                }
+            ]
+        },
+        {
+            "name": "geeksforgeeks.org",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:24:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-06-29 02:24:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:25:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2020-06-29 02:25:14"
+                }
+            ]
+        },
+        {
+            "name": "localhost:8888",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:25:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:25:05"
+                }
+            ]
+        },
+        {
+            "name": "stackoverflow.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:25:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:25:40"
+                }
+            ]
+        },
+        {
+            "name": "web.whatsapp.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:30:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:30:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:30:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:30:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:32:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-06-29 02:32:25"
+                }
+            ]
+        },
+        {
+            "name": "Anaconda Prompt (Anaconda3)",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-06-29 02:30:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-06-29 02:30:21"
+                }
+            ]
+        }
+    ]
+}
